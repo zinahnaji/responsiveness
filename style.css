@@ -1,5 +1,5 @@
 body {
-    background-color: #58b4ae;
+    background-color: red ;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
@@ -24,7 +24,7 @@ p {
 
 @media (max-width: 1024px) {
     body {
-        background-color: #ffe277;
+        background-color: peru;
     }
 
     /*
@@ -60,7 +60,7 @@ p {
 
 @media (max-width: 480px) {
     body {
-        background-color: #ffb367;
+        background-color: peru;
     }
 
     /*
